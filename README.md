@@ -1,14 +1,41 @@
-# Hey there! 👋 I'm Axelsson09
+# 👋 Hey, I'm Axelsson09
+🎮 Gamer | 💻 Developer | 🎓 Student | 🚀 Founder of Gamemodstudios  
 
-### 🎮 Gamer | 💻 Programmer | 🎓 High School Student | 🕹️ Owner of Gamemodstudios
+---
 
-Hey everyone! I'm Axelsson09, a multi-talented creator and problem-solver. 😊
+## 🧠 About Me  
+I'm a Sweden-based developer and creative technologist with a passion for open ecosystems, community-led innovation, and modding-friendly game design. I founded **Gamemodstudios** at 15 with a vision: make gaming more open, accessible, and creative — for everyone.
 
-- 🔭 I’m currently working on mastering HTML, JavaScript, CSS, C#, and dabbling in Java.
-- 🌱 I’m currently learning new coding techniques and game development strategies.
-- 👯 I’m looking to collaborate on exciting open-source projects and game development ventures.
-- 💬 Ask me about gaming, programming, or anything related to tech and creativity!
-- 🌍 Based in Sweden
-- ⚡ Fun fact: I started Gamemodstudios at just 15 years old!
+I'm currently focused on building moddable experiences and tools that empower others to shape their own digital worlds. Whether it's a new game system, a developer utility, or a cross-platform app, I thrive where **code meets creativity**.
 
-Let's connect, collaborate, and code on! 💻✨
+---
+
+## 🧰 Current Tech Stack  
+- **Languages**: `C#`, `JavaScript`, `Java`, `HTML`, `CSS`
+- **Tools**: `Unity`, `Visual Studio`, `Supabase`, `Docker`, `GitHub Pages`
+
+---
+
+## 🎯 What I'm Working On  
+- 🕹️ Developing **Quantum Transit**, a moddable, multiplayer simulation game set in the year 3000  
+- 🛠️ Building internal apps and infrastructure for **Gamemodstudios** using Unity Cloud and Supabase  
+- 🔧 Designing the **Gamemodstudios SDK** and `Modraeus`, a custom VSCode extension for modding  
+
+---
+
+## 🤝 Let's Collaborate  
+I'm always open to collaborating on forward-thinking projects in game dev, modding, or tooling.  
+Got an idea or just want to connect? Let's talk!
+
+- 🔗 [Modrinth](https://modrinth.com/user/axelsson09)  
+- 🎥 [YouTube](https://www.youtube.com/channel/UCO38Am_K83ZPslZDge1hGLA)  
+- 📺 [Twitch](https://www.twitch.tv/axelsson0901)  
+
+---
+
+## 🌟 Fun Fact  
+I started Gamemodstudios as a passion project — today, it's a thriving community of creators pushing boundaries in open gaming.
+
+---
+
+> “Creativity is intelligence having fun.” – Albert Einstein
