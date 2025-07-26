@@ -34,7 +34,7 @@ Got an idea or just want to connect? Let's talk!
 ---
 
 ## 🌟 Fun Fact  
-I started Gamemodstudios as a passion project — today, it's a thriving community of creators pushing boundaries in open gaming.
+I started Gamemodstudios as a passion project. 
 
 ---
 
