@@ -2,7 +2,6 @@ param(
     [string]$choice
 )
 
-# If no parameter was passed, show the menu and ask for input
 if (-not $choice) {
     Write-Host "--- Windows Wallpaper Manager ---" -ForegroundColor Cyan
     Write-Host "1. Change Wallpaper"
@@ -16,7 +15,6 @@ $cachePath = "$themePath\CachedFiles"
 
 switch ($choice) {
     "1" {
-        # Find the image (looks for .jpg, .png, .jpeg)
         $sourceFile = Get-ChildItem -Path "$PSScriptRoot\wallpaper.*" | Select-Object -First 1
         
         if (-not $sourceFile) {
@@ -27,12 +25,10 @@ switch ($choice) {
 
         Write-Host "Processing image..." -ForegroundColor Yellow
         
-        # Prepare the Themes folder
         if (!(Test-Path $cachePath)) { New-Item -ItemType Directory -Path $cachePath -Force | Out-Null }
         Remove-Item "$themePath\TranscodedWallpaper*" -Force -ErrorAction SilentlyContinue
         Remove-Item "$cachePath\*" -Force -ErrorAction SilentlyContinue
 
-        # Use Copy-Item to inject the file
         Copy-Item $sourceFile.FullName "$themePath\TranscodedWallpaper" -Force
         Copy-Item $sourceFile.FullName "$themePath\TranscodedWallpaper.png" -Force
 
